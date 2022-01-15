@@ -1,8 +1,7 @@
 {
   "name": "snow",
   "version": "1.0.0",
-  "description": "``` https://codepen.io/yuanchuan/pen/dyPXRXB ``` ## Deploy ``` npm i --production npm run deploy ```",
-  "main": "index.js",
+  "description": "Snow is beautiful",
   "directories": {
     "doc": "docs"
   },
@@ -16,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jobscale/snow/issues"
   },

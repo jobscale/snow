@@ -1,0 +1,24 @@
+{
+  "name": "snow",
+  "version": "1.0.0",
+  "description": "``` https://codepen.io/yuanchuan/pen/dyPXRXB ``` ## Deploy ``` npm i --production npm run deploy ```",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "PORT=3000 serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobscale/snow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobscale/snow/issues"
+  },
+  "homepage": "https://github.com/jobscale/snow#readme"
+}

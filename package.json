@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jobscale/snow/issues"
   },
-  "homepage": "https://github.com/jobscale/snow#readme"
+  "homepage": "https://github.com/jobscale/snow#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
 }

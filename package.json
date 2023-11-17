@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jobscale/snow.git"
+    "url": "git+git@github.com:jobscale/snow.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jobscale/snow/issues"
+    "url": "git@github.com:jobscale/snow/issues"
   },
-  "homepage": "https://github.com/jobscale/snow#readme",
+  "homepage": "git@github.com:jobscale/snow#readme",
   "devDependencies": {
     "serve": "^14.2.0"
   }
